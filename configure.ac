@@ -14,7 +14,7 @@ dnl limitations under the License.
 
 
 dnl Autoconf Init
-AC_INIT([alac], [1.0])
+AC_INIT([alac], [1.0.1])
 AC_CONFIG_AUX_DIR(.)
 AC_CONFIG_MACRO_DIR([m4])
 AM_INIT_AUTOMAKE([tar-ustar foreign])
