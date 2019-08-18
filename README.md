@@ -1,7 +1,7 @@
 # libalac
 
 Shared library builds of the Apple Lossless Audio Codec (ALAC).
-For GNU and BSD-based platforms like macOS (`libalac.dylib`) and Linux (`libalac.la`).
+For GNU and BSD-based platforms like macOS (`libalac.dylib`) and Linux.
 
 
 ## Requirements Installation
