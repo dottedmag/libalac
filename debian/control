@@ -1,0 +1,21 @@
+Source: alac
+Section: devel
+Priority: optional
+Maintainer: Mikhail Gusarov <dottedmag@debian.org>
+Build-Depends: debhelper (>= 9)
+
+Package: libalac0
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: libalac
+  libalac.
+  .
+  libalac.
+
+Package: libalac-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libalac0 (= ${binary:Version})
+Description: libalac-dev
+  libalac-dev
+  .
+  libalac-dev
